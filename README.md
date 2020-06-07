@@ -14,3 +14,7 @@ Most of the material here is designed for graduate students and postdoctoral res
 
 - [Getting hired as an Assistant Professor](presentations/2020-04-29-getting-hired-as-an-asst-prof.pdf)
 - [Things to think about when making a transition to independence](https://docs.google.com/presentation/d/1GX_ZJqnNh1amxIeGj3iXTlx-v6gSSEAjaNiFg084AFw/edit?usp=sharing)
+
+### Applying for grants 
+
+- [Grants that students and postdocs might be interested in applying for](https://docs.google.com/presentation/d/1bFNsOV6GXqqoXv-z1ciHxG9BZU0C1Nl7Xat4UsCL2Jc/edit?usp=sharing)
